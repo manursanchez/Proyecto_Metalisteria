@@ -1,7 +1,7 @@
 # Proyecto_Metalistería
 Aplicación para la gestión de clientes, presupuestos y facturación de un taller de metalistería.
 
-Está aplicación a medida, permite gestionar un pequeño grupo de empresas dedicadas al trabajo con metal.
+Está aplicación a medida y desarrollada en Visual Basic 6, permite gestionar un pequeño grupo de empresas dedicadas al trabajo con metal.
 
 El programa fue concebido para la gestión de clientes y facturas.
 
